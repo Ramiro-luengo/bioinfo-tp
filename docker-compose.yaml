@@ -1,0 +1,13 @@
+version: '3'
+services:
+  Ejercicio_1:
+    image: bioperl-test
+    command: bash -c "cd src && perl Ex1.pm NM_000311.5.gb NM_000311.5.fas"
+    volumes:
+      - ./Ejercicio_1:/usr/src/app/Ejercicio_1
+  Ejercicio_2:
+    image: bioperl-test
+    command: bash -c "cd src && perl Ex2.pm NM_000311.5.gb NM_000311.5.fas"
+    volumes:
+      - ./Ejercicio_2:/usr/src/app/Ejercicio_2
+  
