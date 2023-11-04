@@ -1,0 +1,62 @@
+BLASTP 2.14.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: MCT9U2U2016
+
+
+Database: Non-redundant UniProtKB/SwissProt sequences
+           482,178 sequences; 183,214,815 total letters
+
+Query= NM_000311 Homo sapiens prion protein (PRNP), transcript variant 1,
+mRNA.
+
+Length=811
+
+
+<b>No significant similarity found.</b> For reasons why, <A HREF = "Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=FAQ"><b>click here</A>.</b><br><br>
+  Database: Non-redundant UniProtKB/SwissProt sequences
+    Posted date:  Nov 1, 2023  5:24 AM
+  Number of letters in database: 183,214,815
+  Number of sequences in database:  482,178
+
+Lambda      K        H
+   0.348    0.150    0.554 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 482178
+Number of Hits to DB: 642145
+Number of extensions: 668
+Number of successful extensions: 134
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 134
+Number of HSP's successfully gapped: 0
+Length of query: 811
+Length of database: 183214815
+Length adjustment: 126
+Effective length of query: 685
+Effective length of database: 122460387
+Effective search space: 83885365095
+Effective search space used: 83885365095
+T: 19
+A: 40
+X1: 14 (7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 38 (19.2 bits)
+S2: 109 (46.6 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+

@@ -1,0 +1,78 @@
+2023-11-04 12:37:33 
+2023-11-04 12:37:33 Peticiones pendientes:  MCT9R1YJ016 MCT9STDR016 MCT9TBUH016 MCT9U2U2016 MCT9VZ0G016 MCT9XFBA016
+2023-11-04 12:37:45 ......
+2023-11-04 12:37:45 Peticiones pendientes:  MCT9R1YJ016 MCT9STDR016 MCT9TBUH016 MCT9U2U2016 MCT9VZ0G016 MCT9XFBA016
+2023-11-04 12:37:58 .....
+2023-11-04 12:37:58 Peticiones pendientes:  MCT9R1YJ016 MCT9STDR016 MCT9TBUH016 MCT9U2U2016 MCT9VZ0G016
+2023-11-04 12:38:04 TP Bioinformática - Ejercicio 2
+2023-11-04 12:38:04 
+2023-11-04 12:38:04 
+2023-11-04 12:38:04 Query: NM_000311
+2023-11-04 12:38:04 
+2023-11-04 12:38:04 
+2023-11-04 12:38:04 Query: NM_000311
+2023-11-04 12:38:04 F7VJQ1.1; Puntaje: 176; RecName: Full=Alternative prion protein; AltName: Full=AltPrP [Homo sapiens]
+2023-11-04 12:38:04 F7VJQ3.1; Puntaje: 122; RecName: Full=Alternative prion protein; AltName: Full=AltPrP [Ovis aries]
+2023-11-04 12:38:04 F7VJQ2.1; Puntaje: 114; RecName: Full=Alternative prion protein; AltName: Full=AltPrP [Bos taurus]
+2023-11-04 12:38:04 
+2023-11-04 12:38:04 
+2023-11-04 12:38:04 Query: NM_000311
+2023-11-04 12:38:04 P04156.1; Puntaje: 787; RecName: Full=Major prion protein; Short=PrP; AltName: Full=ASCR; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName:CD_antigen=CD230; Flags: Precursor [Homo sapiens]
+2023-11-04 12:38:04 P40252.1; Puntaje: 784; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Gorilla gorilla gorilla]
+2023-11-04 12:38:04 P61766.1; Puntaje: 779; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Hylobates lar]P61767.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Symphalangus syndactylus]P61768.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Pan troglodytes]
+2023-11-04 12:38:04 P40256.1; Puntaje: 766; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Pongo pygmaeus]
+2023-11-04 12:38:04 P40251.1; Puntaje: 761; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Colobus guereza]
+2023-11-04 12:38:04 P40257.2; Puntaje: 757; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Trachypithecus francoisi]
+2023-11-04 12:38:04 P67992.1; Puntaje: 753; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Macaca fascicularis]P67993.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Macaca arctoides]P67994.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Macaca fuscata fuscata]P67995.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Macaca nemestrina]P67996.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Papio hamadryas]P67997.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Macaca mulatta]
+2023-11-04 12:38:04 P40247.1; Puntaje: 743; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Callithrix jacchus]
+2023-11-04 12:38:04 P51446.1; Puntaje: 741; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Ateles paniscus]
+2023-11-04 12:38:04 P67988.1; Puntaje: 739; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Chlorocebus aethiops]P67989.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Cercopithecus diana]
+2023-11-04 12:38:04 P40249.1; Puntaje: 739; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Sapajus apella]
+2023-11-04 12:38:04 P40258.1; Puntaje: 739; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Saimiri sciureus]
+2023-11-04 12:38:04 P40248.1; Puntaje: 714; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Plecturocebus moloch]
+2023-11-04 12:38:04 P40246.1; Puntaje: 707; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Ateles geoffroyi]
+2023-11-04 12:38:04 P61761.1; Puntaje: 708; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Cercopithecus mona]P61762.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Cercopithecus neglectus]
+2023-11-04 12:38:04 P40255.1; Puntaje: 705; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Mandrillus sphinx]
+2023-11-04 12:38:04 Q95174.1; Puntaje: 705; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Erythrocebus patas]
+2023-11-04 12:38:04 Q95176.1; Puntaje: 704; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Cercocebus atys]
+2023-11-04 12:38:04 Q95M08.1; Puntaje: 700; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Budorcas taxicolor]
+2023-11-04 12:38:04 P67990.1; Puntaje: 697; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Lophocebus aterrimus]P67991.1 RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30;AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Macaca sylvanus]
+2023-11-04 12:38:04 P40245.1; Puntaje: 697; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Aotus trivirgatus]
+2023-11-04 12:38:04 Q68G95.1; Puntaje: 698; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Moschus chrysogaster]
+2023-11-04 12:38:04 P52113.1; Puntaje: 697; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Capra hircus]
+2023-11-04 12:38:04 Q5XVM4.1; Puntaje: 697; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Rupicapra rupicapra]Q7JIH3.1 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Ovis canadensis]Q7JIY2.1 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Ovibos moschatus]Q7JK02.1 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Ovis aries musimon]
+2023-11-04 12:38:04 P47852.1; Puntaje: 696; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Odocoileus hemionus]
+2023-11-04 12:38:04 P23907.1; Puntaje: 695; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Ovis aries]
+2023-11-04 12:38:04 P40243.1; Puntaje: 695; RecName: Full=Major prion protein 2; Short=PrP; AltName: Full=Major scrapie-associated fibril protein 2; AltName: CD_antigen=CD230;Flags: Precursor [Tragelaphus strepsiceros]
+2023-11-04 12:38:04 P67986.1; Puntaje: 693; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Cervus canadensis nelsoni]P67987.1 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Cervus elaphus]
+2023-11-04 12:38:04 Q95270.1; Puntaje: 690; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Theropithecus gelada]
+2023-11-04 12:38:04 Q9Z0T3.1; Puntaje: 691; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Sigmodon hispidus]
+2023-11-04 12:38:13 B5SY89.2; Puntaje: 688; RecName: Full=Major prion protein; Short=PrP; AltName: Full=Major scrapie-associated fibril protein 1; AltName: CD_antigen=CD230;Flags: Precursor [Bos indicus x Bos taurus]P10279.2 RecName: Full=Major prion protein; Short=PrP; AltName: Full=Major scrapie-associated fibril protein 1; AltName: CD_antigen=CD230;Flags: Precursor [Bos taurus]Q5UAF1.1 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Bison bison]Q5UJH0.1 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Bos gaurus]Q5UJI7.2 RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230;Flags: Precursor [Bos indicus]
+2023-11-04 12:38:13 Q5UJH8.1; Puntaje: 687; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Bubalus bubalis]
+2023-11-04 12:38:13 Q5UJG1.1; Puntaje: 686; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Antilope cervicapra]
+2023-11-04 12:38:13 Q60506.1; Puntaje: 682; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Cricetulus griseus]
+2023-11-04 12:38:13 O18754.3; Puntaje: 682; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Felis catus]
+2023-11-04 12:38:13 Q6EH52.1; Puntaje: 682; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Ailuropoda melanoleuca]
+2023-11-04 12:38:13 Q5UJG3.1; Puntaje: 679; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Tragelaphus imberbis]
+2023-11-04 12:38:13 Q60468.1; Puntaje: 678; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Cricetulus migratorius]
+2023-11-04 12:38:13 P40242.1; Puntaje: 676; RecName: Full=Major prion protein 1; Short=PrP; AltName: Full=Major scrapie-associated fibril protein 1; AltName: CD_antigen=CD230;Flags: Precursor [Tragelaphus strepsiceros]
+2023-11-04 12:38:13 P04925.2; Puntaje: 672; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Mus musculus]
+2023-11-04 12:38:13 P13852.2; Puntaje: 672; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Rattus norvegicus]
+2023-11-04 12:38:13 Q5UJG7.1; Puntaje: 672; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Boselaphus tragocamelus]
+2023-11-04 12:38:13 P04273.1; Puntaje: 670; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Mesocricetus auratus]
+2023-11-04 12:38:13 P40244.1; Puntaje: 668; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Neogale vison]
+2023-11-04 12:38:13 O46501.1; Puntaje: 660; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Canis lupus familiaris]
+2023-11-04 12:38:13 P49927.1; Puntaje: 659; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Sus scrofa]
+2023-11-04 12:38:13 P52114.1; Puntaje: 658; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Mustela putorius furo]
+2023-11-04 12:38:13 Q95211.1; Puntaje: 653; RecName: Full=Major prion protein; Short=PrP; AltName: Full=PrP27-30; AltName: Full=PrP33-35C; AltName: CD_antigen=CD230;Flags: Precursor [Oryctolagus cuniculus]
+2023-11-04 12:38:13 P79141.1; Puntaje: 652; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Camelus dromedarius]
+2023-11-04 12:38:13 B0FYL5.1; Puntaje: 649; RecName: Full=Major prion protein; Short=PrP; AltName: CD_antigen=CD230; Flags: Precursor [Vulpes lagopus]
+2023-11-04 12:38:13 
+2023-11-04 12:38:13 
+2023-11-04 12:38:13 Query: NM_000311
+2023-11-04 12:38:13 
+2023-11-04 12:38:13 
+2023-11-04 12:38:13 Query: NM_000311
+2023-11-04 12:38:13 
+2023-11-04 12:38:13 
+2023-11-04 12:38:13 Query: NM_000311

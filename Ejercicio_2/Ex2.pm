@@ -38,7 +38,7 @@ sub blast_remote {
         print STDERR ".";
         sleep(1);
       } else {
-        $factory->save_output($ARGV[1]);
+        $factory->save_output($request_id. "_" .$ARGV[1]);
         $factory->remove_rid($request_id);
         print_results $rc;
       }

@@ -1,0 +1,108 @@
+BLASTP 2.14.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: MCT9R1YJ016
+
+
+Database: Non-redundant UniProtKB/SwissProt sequences
+           482,178 sequences; 183,214,815 total letters
+Query= NM_000311 Homo sapiens prion protein (PRNP), transcript variant 1,
+mRNA.
+
+Length=811
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+F7VJQ1.1 RecName: Full=Alternative prion protein; AltName: Ful...  72.4    1e-14  100%        
+F7VJQ3.1 RecName: Full=Alternative prion protein; AltName: Ful...  51.6    2e-07  83%         
+F7VJQ2.1 RecName: Full=Alternative prion protein; AltName: Ful...  48.5    5e-06  79%         
+
+ALIGNMENTS
+>F7VJQ1.1 RecName: Full=Alternative prion protein; AltName: Full=AltPrP 
+[Homo sapiens]
+Length=73
+
+ Score = 72.4 bits (176),  Expect = 1e-14
+ Identities = 73/73 (100%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  53   MEHWGQPIPGAGQPWRQPLPTSGRwwlgaaswwwlgaaswwwlgaapwwwlgtaswwwlg  112
+            MEHWGQPIPGAGQPWRQPLPTSGRWWLGAASWWWLGAASWWWLGAAPWWWLGTASWWWLG
+Sbjct  1    MEHWGQPIPGAGQPWRQPLPTSGRWWLGAASWWWLGAASWWWLGAAPWWWLGTASWWWLG  60
+
+Query  113  sRRWHPQSVEQAE  125
+            SRRWHPQSVEQAE
+Sbjct  61   SRRWHPQSVEQAE  73
+
+
+>F7VJQ3.1 RecName: Full=Alternative prion protein; AltName: Full=AltPrP 
+[Ovis aries]
+Length=64
+
+ Score = 51.6 bits (122),  Expect = 2e-07
+ Identities = 20/24 (83%), Positives = 21/24 (88%), Gaps = 0/24 (0%)
+
+Query  53  MEHWGQPIPGAGQPWRQPLPTSGR  76
+           MEHWG+PIPG GQ WRQPL TSGR
+Sbjct  1   MEHWGEPIPGTGQSWRQPLSTSGR  24
+
+
+>F7VJQ2.1 RecName: Full=Alternative prion protein; AltName: Full=AltPrP 
+[Bos taurus]
+Length=81
+
+ Score = 48.5 bits (114),  Expect = 5e-06
+ Identities = 19/24 (79%), Positives = 20/24 (83%), Gaps = 0/24 (0%)
+
+Query  53  MEHWGQPIPGAGQPWRQPLPTSGR  76
+           MEHWG+PIP  GQ WRQPL TSGR
+Sbjct  1   MEHWGEPIPRTGQSWRQPLSTSGR  24
+
+
+  Database: Non-redundant UniProtKB/SwissProt sequences
+    Posted date:  Nov 1, 2023  5:24 AM
+  Number of letters in database: 183,214,815
+  Number of sequences in database:  482,178
+
+Lambda      K        H
+   0.353    0.158    0.593 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 482178
+Number of Hits to DB: 667474
+Number of extensions: 761
+Number of successful extensions: 150
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 150
+Number of HSP's successfully gapped: 0
+Length of query: 811
+Length of database: 183214815
+Length adjustment: 126
+Effective length of query: 685
+Effective length of database: 122460387
+Effective search space: 83885365095
+Effective search space used: 83885365095
+T: 19
+A: 40
+X1: 14 (7.1 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 37 (18.9 bits)
+S2: 109 (46.6 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+

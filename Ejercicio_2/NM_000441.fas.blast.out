@@ -1,0 +1,175 @@
+BLASTP 2.14.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: M0HAWWCU013
+
+
+Database: Non-redundant UniProtKB/SwissProt sequences
+           482,178 sequences; 183,214,815 total letters
+Query= NM_000441 Homo sapiens solute carrier family 26 member 4 (SLC26A4),
+mRNA.
+
+Length=1579
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+Q8N7I0.1 RecName: Full=Protein GVQW1; AltName: Full=GVQW motif...  82.0    3e-16  52%         
+A0A096LPI5.1 RecName: Full=Putative uncharacterized protein CC...  72.0    1e-13  49%         
+Q6UX73.2 RecName: Full=UPF0764 protein C16orf89; Flags: Precur...  75.1    1e-12  50%         
+Q8N7M2.4 RecName: Full=Zinc finger protein 283; AltName: Full=...  72.0    3e-11  87%         
+Q6B4Z3.1 RecName: Full=Histone demethylase UTY; AltName: Full=...  69.3    2e-10  47%         
+Q86U02.1 RecName: Full=Putative uncharacterized protein encode...  61.2    8e-10  67%         
+Q8NDZ0.2 RecName: Full=BEN domain-containing protein 2 [Homo s...  54.3    8e-06  64%         
+
+ALIGNMENTS
+>Q8N7I0.1 RecName: Full=Protein GVQW1; AltName: Full=GVQW motif-containing 
+protein 1; AltName: Full=Tigger transposable element-derived 
+1-like protein 2; Flags: Precursor [Homo sapiens]
+Length=195
+
+ Score = 82.0 bits (201),  Expect = 3e-16
+ Identities = 48/92 (52%), Positives = 54/92 (59%), Gaps = 4/92 (4%)
+
+Query  154  SVAQAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDYRRPPATTLG*flffyf**rrgfTM  213
+            S+A +  QW DLGSLQ P P F  FSCLSLP+SWDYRR P+      L        G   
+Sbjct  100  SLALSPRQWCDLGSLQPPSPRFKGFSCLSLPSSWDYRRAPSPANFCILVEMGFHHVGQAD  159
+
+Query  214  LARMVSIS*PRDPPASASQSAGITGMSHRAWP  245
+            L  + S     D P SASQSAGITG+SH AWP
+Sbjct  160  LELLTS----ADLPTSASQSAGITGVSHHAWP  187
+
+
+>A0A096LPI5.1 RecName: Full=Putative uncharacterized protein CCDC28A-AS1; AltName: 
+Full=GVQW motif-containing protein 2 [Homo sapiens]
+Length=108
+
+ Score = 72.0 bits (175),  Expect = 1e-13
+ Identities = 46/94 (49%), Positives = 50/94 (53%), Gaps = 7/94 (7%)
+
+Query  150  TESCSVAQAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDYRRPPATTLG*flffyf**rr  209
+            TESC VAQA VQW  LGSLQ P PGF  FSC SLP+SWDYR     TL   L        
+Sbjct  13   TESCCVAQARVQWCHLGSLQPPLPGFKQFSCHSLPSSWDYRW--NLTLSPRLECSGAISA  70
+
+Query  210  gfTMLARMVSIS*PRDPPASASQSAGITGMSHRA  243
+               +    +S     D PAS S+ AG TG  H A
+Sbjct  71   HCNLCLPDLS-----DSPASTSRVAGTTGAHHHA  99
+
+
+>Q6UX73.2 RecName: Full=UPF0764 protein C16orf89; Flags: Precursor [Homo 
+sapiens]
+Length=402
+
+ Score = 75.1 bits (183),  Expect = 1e-12
+ Identities = 43/86 (50%), Positives = 50/86 (58%), Gaps = 2/86 (2%)
+
+Query  151  ESCSVAQAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDYRRPPATTLG*flffyf**rrg  210
+            +S SVAQAGVQW +LGSLQ  PPGF  FSCL LP+SWDYR  P      ++F        
+Sbjct  319  DSRSVAQAGVQWRNLGSLQPLPPGFKQFSCLILPSSWDYRSVPPYLANFYIFLVETGFHH  378
+
+Query  211  fTMLARMVSIS*PRDPPASASQSAGI  236
+                   + IS  RDPP S SQS G+
+Sbjct  379  VAHAGLELLIS--RDPPTSGSQSVGL  402
+
+
+>Q8N7M2.4 RecName: Full=Zinc finger protein 283; AltName: Full=Zinc finger 
+protein HZF19 [Homo sapiens]
+Length=679
+
+ Score = 72.0 bits (175),  Expect = 3e-11
+ Identities = 34/39 (87%), Positives = 35/39 (90%), Gaps = 0/39 (0%)
+
+Query  151  ESCSVAQAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDY  189
+            ES SVAQAGVQW DLGSLQAPPPGFT FSCLSL +SWDY
+Sbjct  2    ESRSVAQAGVQWCDLGSLQAPPPGFTLFSCLSLLSSWDY  40
+
+
+>Q6B4Z3.1 RecName: Full=Histone demethylase UTY; AltName: Full=Ubiquitously 
+transcribed TPR protein on the Y chromosome; AltName: Full=Ubiquitously 
+transcribed Y chromosome tetratricopeptide 
+repeat protein; AltName: Full=[histone H3]-trimethyl-L-lysine(27) 
+demethylase UTY [Pan troglodytes]
+Length=1079
+
+ Score = 69.3 bits (168),  Expect = 2e-10
+ Identities = 41/87 (47%), Positives = 50/87 (57%), Gaps = 3/87 (3%)
+
+Query  157   QAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDYRRPPATTLG*flffyf**rrgfTMLAR  216
+             +AG+QW DL SLQ PPPGF  FS LSLPNSW+YR  P+      +F              
+Sbjct  995   RAGMQWCDLSSLQPPPPGFKRFSHLSLPNSWNYRHLPSCPTNFCIFVETGFHHVGQAHLE  1054
+
+Query  217   MVSIS*PRDPPASASQSAGITGMSHRA  243
+             +++        ASASQSAGITG+SH A
+Sbjct  1055  LLTSG---GLLASASQSAGITGVSHHA  1078
+
+
+>Q86U02.1 RecName: Full=Putative uncharacterized protein encoded by LINC00596 
+[Homo sapiens]
+Length=117
+
+ Score = 61.2 bits (147),  Expect = 8e-10
+ Identities = 30/45 (67%), Positives = 32/45 (71%), Gaps = 0/45 (0%)
+
+Query  149  ETESCSVAQAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDYRRPP  193
+            ET S  VAQ GV W +LGSLQ  PPGF  FSCLSLP+S DYR  P
+Sbjct  51   ETASGFVAQTGVHWCNLGSLQPLPPGFKRFSCLSLPSSLDYRHAP  95
+
+
+>Q8NDZ0.2 RecName: Full=BEN domain-containing protein 2 [Homo sapiens]
+Length=799
+
+ Score = 54.3 bits (129),  Expect = 8e-06
+ Identities = 27/42 (64%), Positives = 28/42 (67%), Gaps = 0/42 (0%)
+
+Query  152  SCSVAQAGVQWHDLGSLQAPPPGFTPFSCLSLPNSWDYRRPP  193
+            S SV QAGVQWHD  SLQ  P G   F  LSLP+SWD RR P
+Sbjct  81   SGSVTQAGVQWHDHSSLQPQPLGLKQFFHLSLPSSWDDRRTP  122
+
+
+  Database: Non-redundant UniProtKB/SwissProt sequences
+    Posted date:  Oct 28, 2023  5:24 AM
+  Number of letters in database: 183,214,815
+  Number of sequences in database:  482,178
+
+Lambda      K        H
+   0.347    0.149    0.505 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 482178
+Number of Hits to DB: 1178380
+Number of extensions: 1233
+Number of successful extensions: 217
+Number of sequences better than 0.001: 2
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 217
+Number of HSP's successfully gapped: 2
+Length of query: 1579
+Length of database: 183214815
+Length adjustment: 131
+Effective length of query: 1448
+Effective length of database: 120049497
+Effective search space: 173831671656
+Effective search space used: 173831671656
+T: 19
+A: 40
+X1: 14 (7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 38 (19.2 bits)
+S2: 111 (47.4 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
