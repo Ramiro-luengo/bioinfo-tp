@@ -1,0 +1,26 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  7 Nov 2023 11:55:54
+# Commandline: patmatmotifs
+#    -outfile output_2
+#    -sequence output_1
+#    -full
+#    -auto
+# Report_format: dbmotif
+# Report_file: output_2
+########################################
+
+#=======================================
+#
+# Sequence: NM_000311_1     from: 1   to: 812
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
