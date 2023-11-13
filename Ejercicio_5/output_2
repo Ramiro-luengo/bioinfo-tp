@@ -1,6 +1,6 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Tue  7 Nov 2023 11:55:54
+# Rundate: Mon 13 Nov 2023 22:49:27
 # Commandline: patmatmotifs
 #    -outfile output_2
 #    -sequence output_1
@@ -12,8 +12,8 @@
 
 #=======================================
 #
-# Sequence: NM_000311_1     from: 1   to: 812
-# HitCount: 0
+# Sequence: NM_000311_2     from: 1   to: 812
+# HitCount: 2
 #
 # Full: Yes
 # Prune: Yes
@@ -21,6 +21,152 @@
 #
 #=======================================
 
+Length = 16
+Start = position 135 of sequence
+End = position 150 of sequence
+
+Motif = PRION_1
+
+NMKHMAGAAAAGAVVGGLGGYMLGSA
+     |              |
+   135              150
+
+Length = 19
+Start = position 222 of sequence
+End = position 240 of sequence
+
+Motif = PRION_2
+
+GENFTETDVKMMERVVEQMCITQYERESQ
+     |                 |
+   222                 240
+
 
 #---------------------------------------
+#
+# Motif: PRION_1
+# Count: 1
+# 
+# ****************************
+# * Prion protein signatures *
+# ****************************
+# 
+# Prion protein (PrP) [1,2,3] is a  small glycoprotein found in high quantity in
+# the brains of  humans  or animals  infected  with  a  number  of  degenerative
+# neurological diseases such as  Kuru, Creutzfeldt-Jacob disease (CJD),  scrapie
+# or bovine spongiform encephalopathy (BSE).   PrP is encoded in the host genome
+# and expressed  both  in  normal  and  infected  cells.  It  has  a tendency to
+# aggregate yielding polymers called rods.
+# 
+# Structurally, PrP is  a  protein consisting  of  a signal peptide, followed by
+# an N-terminal  domain  that contains tandem repeats of a short motif (PHGGGWGQ
+# in mammals, PHNPGY in chicken), itself followed  by  a highly conserved domain
+# of about  140  residues  that  contains a  disulfide bond.  Finally comes a C-
+# terminal hydrophobic domain post-translationally  removed when PrP is attached
+# to the extracellular side of the cell membrane by a GPI-anchor.  The structure
+# of PrP is shown in the following schematic representation:
+# 
+#  +---+----------------+-******-------------------****-----+-----+
+#  |Sig| Tandem repeats |                    C        C    S|     |
+#  +---+----------------+--------------------|--------|----|+-----+
+#                                            +--------+    |
+#                                                          GPI
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# '*': position of the patterns.
+# 
+# As signature pattern for PrP,  we  selected a perfectly conserved alanine- and
+# glycine-rich region of 16 residues as well  as a region centered on the second
+# cysteine involved in the disulfide bond.
+# 
+# -Consensus pattern: A-G-A-A-A-A-G-A-V-V-G-G-L-G-G-Y
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Consensus pattern: E-x-[ED]-x-K-[LIVM](2)-x-[KR]-[LIVM](2)-x-[QE]-M-C-x(2)-
+#                     Q-Y
+#                     [C is involved in a disulfide bond]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Last update: November 1997 / Text revised.
+# 
+# [ 1] Stahl N., Prusiner S.B.
+#      "Prions and prion proteins."
+#      FASEB J. 5:2799-2807(1991).
+#      PubMed=1916104
+# [ 2] Brunori M., Chiara Silvestrini M.C., Pocchiari M.
+#      "The scrapie agent and the prion hypothesis."
+#      Trends Biochem. Sci. 13:309-313(1988).
+#      PubMed=2908696
+# [ 3] Prusiner S.B.
+#      "Scrapie prions."
+#      Annu. Rev. Microbiol. 43:345-374(1989).
+#      PubMed=2572197; DOI=10.1146/annurev.mi.43.100189.002021
+# 
+# ***************
+# 
+# Motif: PRION_2
+# Count: 1
+# 
+# ****************************
+# * Prion protein signatures *
+# ****************************
+# 
+# Prion protein (PrP) [1,2,3] is a  small glycoprotein found in high quantity in
+# the brains of  humans  or animals  infected  with  a  number  of  degenerative
+# neurological diseases such as  Kuru, Creutzfeldt-Jacob disease (CJD),  scrapie
+# or bovine spongiform encephalopathy (BSE).   PrP is encoded in the host genome
+# and expressed  both  in  normal  and  infected  cells.  It  has  a tendency to
+# aggregate yielding polymers called rods.
+# 
+# Structurally, PrP is  a  protein consisting  of  a signal peptide, followed by
+# an N-terminal  domain  that contains tandem repeats of a short motif (PHGGGWGQ
+# in mammals, PHNPGY in chicken), itself followed  by  a highly conserved domain
+# of about  140  residues  that  contains a  disulfide bond.  Finally comes a C-
+# terminal hydrophobic domain post-translationally  removed when PrP is attached
+# to the extracellular side of the cell membrane by a GPI-anchor.  The structure
+# of PrP is shown in the following schematic representation:
+# 
+#  +---+----------------+-******-------------------****-----+-----+
+#  |Sig| Tandem repeats |                    C        C    S|     |
+#  +---+----------------+--------------------|--------|----|+-----+
+#                                            +--------+    |
+#                                                          GPI
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# '*': position of the patterns.
+# 
+# As signature pattern for PrP,  we  selected a perfectly conserved alanine- and
+# glycine-rich region of 16 residues as well  as a region centered on the second
+# cysteine involved in the disulfide bond.
+# 
+# -Consensus pattern: A-G-A-A-A-A-G-A-V-V-G-G-L-G-G-Y
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Consensus pattern: E-x-[ED]-x-K-[LIVM](2)-x-[KR]-[LIVM](2)-x-[QE]-M-C-x(2)-
+#                     Q-Y
+#                     [C is involved in a disulfide bond]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Last update: November 1997 / Text revised.
+# 
+# [ 1] Stahl N., Prusiner S.B.
+#      "Prions and prion proteins."
+#      FASEB J. 5:2799-2807(1991).
+#      PubMed=1916104
+# [ 2] Brunori M., Chiara Silvestrini M.C., Pocchiari M.
+#      "The scrapie agent and the prion hypothesis."
+#      Trends Biochem. Sci. 13:309-313(1988).
+#      PubMed=2908696
+# [ 3] Prusiner S.B.
+#      "Scrapie prions."
+#      Annu. Rev. Microbiol. 43:345-374(1989).
+#      PubMed=2572197; DOI=10.1146/annurev.mi.43.100189.002021
+# 
+# ***************
+# 
+#
 #---------------------------------------
